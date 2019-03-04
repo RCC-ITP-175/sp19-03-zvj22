@@ -6,4 +6,4 @@ Push- To move data from the bottom to the top.
 Branch- The process of changing instructions from default to different instructions. 
 Pull Request- To have changes made in a project.
 Merge- Taking multiple groups of data and making one single data.
-Fork- Making a copy of itself
+Fork- Making a copy of itself.
